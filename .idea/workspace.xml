@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbc3b387-f07b-4af7-a89f-3cd6c88c9f6a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lab3.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classifier.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/class.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/zoo.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/zoo.data" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/decision_tree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab3.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main.py" />
-    </list>
+    <list default="true" id="bbc3b387-f07b-4af7-a89f-3cd6c88c9f6a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,11 +20,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -45,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="decision_tree.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="decision_tree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/decision_tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="112" column="36" lean-forward="false" selection-start-line="112" selection-start-column="36" selection-end-line="112" selection-end-column="36" />
+            <state relative-caret-position="333">
+              <caret line="96" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="151" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -195,21 +182,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/decision_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="333">
+          <caret line="96" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="151" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/decision_tree.py">
+    <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="112" column="36" lean-forward="false" selection-start-line="112" selection-start-column="36" selection-end-line="112" selection-end-column="36" />
-          <folding />
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
